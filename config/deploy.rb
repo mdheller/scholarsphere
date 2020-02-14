@@ -64,6 +64,7 @@ set :linked_files, fetch(:linked_files, []).push(
   'config/initializers/hydra_derivatives_config.rb ',
   'config/newrelic.yml',
   'config/redis.yml',
+  'config/scholarsphere-client.yml',
   'config/secrets.yml',
   'config/share_notify.yml',
   'config/solr.yml',
